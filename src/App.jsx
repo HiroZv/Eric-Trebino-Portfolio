@@ -38,7 +38,7 @@ const CyberPortfolio = () => {
       skills: 'Skills',
       contact: 'Contact'
     },
-    role: 'Cybersecurity Analyst',
+    role: 'Ethical Hacker',
     explore: 'EXPLORE ACHIEVEMENTS',
     download: 'DOWNLOAD CV',
     certifications: 'CERTIFICATIONS',
@@ -113,7 +113,7 @@ const CyberPortfolio = () => {
       skills: 'Habilidades',
       contact: 'Contacto'
     },
-    role: 'Analista de Ciberseguridad',
+    role: 'Hacker Ético',
     explore: 'EXPLORAR LOGROS',
     download: 'DESCARGAR CV',
     certifications: 'CERTIFICACIONES',
